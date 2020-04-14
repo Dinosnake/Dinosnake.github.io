@@ -4,6 +4,7 @@ adblockplus.org
 amazon.com
 apple.com.cn
 cdn7-okzy.com
+dictionary.com
 github.com
 github.io
 githubapp.com
