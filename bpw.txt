@@ -34,6 +34,7 @@ telegram.org
 thelancet.com
 urbandictionary.com
 v2fly.org
+virtualbox.org
 vanced.app
 wmsxwd.com
 wmsxwd.in
